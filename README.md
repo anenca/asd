@@ -1,4 +1,7 @@
-asd
-===
 
-asd
+skrypt
+
+```awk
+{printf $1}
+```
+
